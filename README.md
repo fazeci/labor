@@ -1,3 +1,4 @@
 # labor
-labor.csv veri kümesi üzerinde çalışılacaktır.  Bu veri kümesi işçiler hakkında bilgiler vermektedir. Çalışma saatleri, yıllık ücret artışları, tatil ve izinler, sağlık ve diğer yardımlar gibi özellikleri göz önünde bulundurarak, bunların sonucunda bize çalışma ortamı veya şartlarının iyi mi kötü mü olduğunu söylemektedir. 
-Bu veriler Kanada endüstrisinde işçi müzakereleri sonucunda toplanmıştır. Veri 57 adet kayıt, 16 adet özellik ve 1 sınıf sütunu içermektedir. Sınıf sütunu bir çalışanın çalışma ortamına göre bir sözleşmenin kabul edilebilir(good) ve kabul edilemez (bad) olduğunu öğrenmek için kullanılmıştır. Veri kümesindeki değerler sayısal (numeric) veya kategorik (nominal) tiptedir.
+The labour.csv dataset will be studied.  This dataset provides information about workers. It takes into account characteristics such as working hours, annual wage increases, holidays and leave, health and other benefits, and as a result tells us whether the working environment or conditions are good or bad. 
+
+These data were collected through labour negotiations in Canadian industry. The data contains 57 records, 16 characteristics and 1 class column. The class column is used to learn whether a contract is good or bad for an employee's working environment. The values in the dataset are either numeric or categorical (nominal).

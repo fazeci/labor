@@ -1,2 +1,3 @@
 # labor
 labor.csv veri kümesi üzerinde çalışılacaktır.  Bu veri kümesi işçiler hakkında bilgiler vermektedir. Çalışma saatleri, yıllık ücret artışları, tatil ve izinler, sağlık ve diğer yardımlar gibi özellikleri göz önünde bulundurarak, bunların sonucunda bize çalışma ortamı veya şartlarının iyi mi kötü mü olduğunu söylemektedir. 
+Bu veriler Kanada endüstrisinde işçi müzakereleri sonucunda toplanmıştır. Veri 57 adet kayıt, 16 adet özellik ve 1 sınıf sütunu içermektedir. Sınıf sütunu bir çalışanın çalışma ortamına göre bir sözleşmenin kabul edilebilir(good) ve kabul edilemez (bad) olduğunu öğrenmek için kullanılmıştır. Veri kümesindeki değerler sayısal (numeric) veya kategorik (nominal) tiptedir.
